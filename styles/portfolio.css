@@ -1,0 +1,36 @@
+body{
+background-color: bisque;
+
+}
+header{
+  background-color: rgb(227, 242, 213);
+  font-style:oblique;
+}
+my-font{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about-me{
+    font-style: oblique;
+    background-color: rgb(166, 229, 155);
+    margin: 10px;
+    padding: 5px;
+}
+h3{
+    font-style: oblique;
+}
+
+div{
+   background-color:rgb(195, 230, 126); 
+   margin: 10px;
+   padding: 5px;
+   
+}
+#skills{
+     margin-top: 5px;
+     padding:2px;
+     text-align: center;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+}
